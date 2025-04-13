@@ -2,5 +2,8 @@ This is socket programming program application.
 To run the code 
 1.Create server.py
 2.Create Client.py
-install scapy using the command
-pip install scapy
+3.install scapy using the command
+  pip install scapy
+4.run pyhton server.py
+5.run python client.py
+
